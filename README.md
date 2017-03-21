@@ -1,2 +1,4 @@
 # hello-world
-Test first time using GIT
+
+Hi guys,
+it's my first edit of file in GIT.
